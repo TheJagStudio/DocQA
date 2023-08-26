@@ -1,17 +1,17 @@
 # DocQA 🤖
-![image](https://github.com/afaqueumer/DocQA/assets/98417654/971c5d0f-3863-4d2b-858b-6f97e85e0f9d)
+![image](https://media.licdn.com/dms/image/D4D12AQHp6b4DDVzSRw/article-cover_image-shrink_423_752/0/1693023472737?e=1698278400&v=beta&t=QuEWKDRtBEDtajq8CBDavfbrkQuj649zBheOBdgijec)
 
 DocQA 🤖 is a web application built using Streamlit 🔥 and the LangChain 🦜🔗 framework, allowing users to leverage the power of LLMs for Generative Question Answering. 🌟
 
 Read More Here 👉
-https://ai.plainenglish.io/️-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172
+[https://ai.plainenglish.io/️-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172](https://www.linkedin.com/pulse/empowering-local-machines-langchain-streamlit-llama-unleashing-patel)
 
 ## Installation
 To run the LangChain web application locally, follow these steps:
 
 Clone this repository 🔗
 ```
-git clone https://github.com/afaqueumer/DocQA.git
+git clone https://github.com/TheJagStudio/DocQA.git
 ```
 Create Virtual Environment and Install the required dependencies ⚙️
 ```
